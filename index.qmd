@@ -6,7 +6,47 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+```bash
+Quarto 1.6.8
+[✓] Checking versions of quarto binary dependencies...
+      Pandoc version 3.2.0: OK
+      Dart Sass version 1.70.0: OK
+      Deno version 1.41.0: OK
+      Typst version 0.11.0: OK
+[✓] Checking versions of quarto dependencies......OK
+[✓] Checking Quarto installation......OK
+      Version: 1.6.8
+      Path: /Applications/quarto/bin
 
+[✓] Checking tools....................OK
+      TinyTeX: (external install)
+      Chromium: 869685
+
+[✓] Checking LaTeX....................OK
+      Using: TinyTex
+      Path: /Users/colin.madland/Library/TinyTeX/bin/universal-darwin
+      Version: 2025
+
+[✓] Checking basic markdown render....OK
+
+[✓] Checking Python 3 installation....OK
+      Version: 3.12.3
+      Path: /Library/Frameworks/Python.framework/Versions/3.12/bin/python3
+      Jupyter: 5.7.2
+      Kernels: python3, ir
+
+[✓] Checking Jupyter engine render....OK
+
+[✓] Checking R installation...........OK
+      Version: 4.5.1
+      Path: /Library/Frameworks/R.framework/Resources
+      LibPaths:
+        - /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/library
+      knitr: 1.50
+      rmarkdown: 2.30
+
+[✓] Checking Knitr engine render......OK
+```
 
 ## h2
 

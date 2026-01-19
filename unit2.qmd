@@ -2,6 +2,6 @@
 title: Unit 2
 ---
 
-## heading 2
+## Unit 2, Topic 1 - should be 2.1
 
-### heading 3
+### Unit 2, Topic 1, Subtopic 1 - should be 2.1.1
