@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "numbertest"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - unit1.qmd
+      - unit2.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+    number-depth: 3
+    number-offset: 2
+
+
+
